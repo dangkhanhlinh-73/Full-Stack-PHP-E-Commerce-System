@@ -1,0 +1,9 @@
+<?php
+include('../assets/inc/header.php');
+include('../assets/inc/navbar.php');
+include('../assets/inc/jumbotron.php');
+include('../assets/inc/body.php');
+include('../assets/inc/features.php');
+include('../assets/inc/newsletter.php');
+include('../assets/inc/footer.php');
+?>
