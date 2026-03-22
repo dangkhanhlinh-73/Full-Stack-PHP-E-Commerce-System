@@ -36,7 +36,7 @@ Hệ thống CMS chuyên sâu giúp vận hành kinh doanh hiệu quả:
 | Thành phần | Công nghệ sử dụng |
 | :--- | :--- |
 | **Backend** | PHP 7.4+ (Core), Session Management |
-| **Database** | Xampp(Xampp, Prepared Statements) |
+| **Database** | SQL Sever (SQL, Prepared Statements) |
 | **Frontend** | Bootstrap 5, jQuery, JavaScript |
 | **UI/UX** | FontAwesome 6, Google Fonts |
 | **Validation** | Regular Expression (Email, Phone) |
